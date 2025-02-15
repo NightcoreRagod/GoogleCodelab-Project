@@ -1,0 +1,11 @@
+Google Code Labs projects are not automatically saved to your GitHub account. You will need to manually copy the project files and upload them to your GitHub repository.
+Here are the steps on how to do that:
+ * Create a new repository on GitHub.
+ * Clone the repository to your local machine.
+ * Copy the project files from your Google Code Labs project to the local repository.
+ * Commit and push the changes to your GitHub repository.
+Here are some additional tips:
+ * You can use the git add command to add specific files to your commit.
+ * You can use the git commit command to create a new commit with your changes.
+ * You can use the git push command to push your changes to your GitHub repository.
+Please let me know if you have any other questions.
